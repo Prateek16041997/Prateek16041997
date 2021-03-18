@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prateek
+- 👀 I’m interested in building new projects using various interested technologies.
+- 🌱 I’m currently learning machine learning and data science using python.
+- 💞️ I’m looking to collaborate on recommendation system using python and data science.
